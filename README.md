@@ -3,7 +3,7 @@
 ### Problem: In Chronic-Kidney-Diseases Dataset we have to predict class wheather the patient is suffering from Chronic disease or not. It is classification based probelm in class feature have two Unique value i.e. "ckd" and "notckd".
 
 #### Steps to be taken while exploring Chronic-Kidney-Diseases Dataset are:
-    Perform Data preprocessing and prepare data for analysis.
+   Perform Data preprocessing and prepare data for analysis.
     
 ##### Perform Exploratory Data Analysis
 1. Analysing distribution of each and every numerical column.
